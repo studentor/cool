@@ -2,7 +2,7 @@ Packing list
 -------------
 - shoes
 - coat
-- camera
+- horse
 
 Picnic
 -------------
