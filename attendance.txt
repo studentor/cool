@@ -1,3 +1,4 @@
 Attendance List
 ------------------
 abel sanchez
+victor rodriguez
